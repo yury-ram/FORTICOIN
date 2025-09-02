@@ -1,2 +1,2 @@
 # FORTICOIN
-Forticoin — a token that combines the features of a futures contract and an option on Bitcoin to protect against volatility.
+Forticoin is an innovative token that combines the properties of a futures contract and an option on Bitcoin (or another underlying asset). It is designed to reduce risks and protect investors from the high volatility of the crypto market.
