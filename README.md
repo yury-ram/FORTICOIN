@@ -2,7 +2,6 @@
 
 **Forticoin** is an innovative token that combines a **base asset** (Bitcoin, Ethereum, or others) with a **put option** on the same asset and in the same volume.  
 It is designed to minimize risks while preserving upside potential, making long-term cryptocurrency investments more secure and predictable.
-
 ---
 
 ## 📖 Concept
