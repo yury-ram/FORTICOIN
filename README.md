@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/photo_FORTICOIN.jpg" alt="Forticoin Logo" width="300"/>
+  <img src="photo_FORTICOIN.jpg" alt="Forticoin Logo" width="300"/>
 </p>
+
 
 # Forticoin
 
