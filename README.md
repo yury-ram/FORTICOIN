@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/photo_FORTICOIN.jpg" alt="Forticoin Logo" width="300"/>
+</p>
+
+# Forticoin
+
 # Forticoin
 
 **Forticoin** is an innovative token that combines a **base asset** (Bitcoin, Ethereum, or others) with a **put option** on the same asset and in the same volume.  
