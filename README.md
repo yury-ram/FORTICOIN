@@ -5,6 +5,9 @@
 
 
 # Forticoin
+Forticoin is a hedged crypto token that combines a base asset (like BTC or ETH) with a protective put option.  
+This structure reduces volatility risk while keeping upside potential.  
+Forticoin makes long-term crypto investing safer, supports DeFi lending, and enables more predictable payments.
 
 **Forticoin** is an innovative token that combines a **base asset** (Bitcoin, Ethereum, or others) with a **put option** on the same asset and in the same volume.  
 It is designed to minimize risks while preserving upside potential, making long-term cryptocurrency investments more secure and predictable.
